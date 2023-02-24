@@ -1,5 +1,5 @@
-Quran App
-storePassword=password 
-keyPassword=password 
-keyAlias=key 
+Quran App,
+storePassword=password, 
+keyPassword=password, 
+keyAlias=key, 
 storeFile=key.jks 
