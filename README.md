@@ -1,1 +1,5 @@
-# quran_app_keys
+Quran App
+storePassword=password
+keyPassword=password
+keyAlias=key
+storeFile=key.jks
